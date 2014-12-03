@@ -1,0 +1,6 @@
+[submodule "rack"]
+	path = rack
+	url = git://github.com/chneukirchen/rack.git
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/noguess/submodule.git
